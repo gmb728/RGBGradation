@@ -15,7 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DDBFF10B2196D3F100D155D8 /* RGBGradiation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RGBGradiation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DDBFF10B2196D3F100D155D8 /* RGBGradation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RGBGradation.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDBFF10E2196D3F100D155D8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DDBFF1102196D3F100D155D8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		DDBFF1132196D3F100D155D8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -38,7 +38,7 @@
 		DDBFF1022196D3F100D155D8 = {
 			isa = PBXGroup;
 			children = (
-				DDBFF10D2196D3F100D155D8 /* RGBGradiation */,
+				DDBFF10D2196D3F100D155D8 /* RGBGradation */,
 				DDBFF10C2196D3F100D155D8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -46,12 +46,12 @@
 		DDBFF10C2196D3F100D155D8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DDBFF10B2196D3F100D155D8 /* RGBGradiation.app */,
+				DDBFF10B2196D3F100D155D8 /* RGBGradation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DDBFF10D2196D3F100D155D8 /* RGBGradiation */ = {
+		DDBFF10D2196D3F100D155D8 /* RGBGradation */ = {
 			isa = PBXGroup;
 			children = (
 				DDBFF10E2196D3F100D155D8 /* AppDelegate.swift */,
@@ -61,15 +61,15 @@
 				DDBFF1172196D3F200D155D8 /* LaunchScreen.storyboard */,
 				DDBFF11A2196D3F200D155D8 /* Info.plist */,
 			);
-			path = RGBGradiation;
+			path = RGBGradation;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DDBFF10A2196D3F100D155D8 /* RGBGradiation */ = {
+		DDBFF10A2196D3F100D155D8 /* RGBGradation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DDBFF11D2196D3F200D155D8 /* Build configuration list for PBXNativeTarget "RGBGradiation" */;
+			buildConfigurationList = DDBFF11D2196D3F200D155D8 /* Build configuration list for PBXNativeTarget "RGBGradation" */;
 			buildPhases = (
 				DDBFF1072196D3F100D155D8 /* Sources */,
 				DDBFF1082196D3F100D155D8 /* Frameworks */,
@@ -79,9 +79,9 @@
 			);
 			dependencies = (
 			);
-			name = RGBGradiation;
+			name = RGBGradation;
 			productName = RGBGradiation;
-			productReference = DDBFF10B2196D3F100D155D8 /* RGBGradiation.app */;
+			productReference = DDBFF10B2196D3F100D155D8 /* RGBGradation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -99,7 +99,7 @@
 					};
 				};
 			};
-			buildConfigurationList = DDBFF1062196D3F100D155D8 /* Build configuration list for PBXProject "RGBGradiation" */;
+			buildConfigurationList = DDBFF1062196D3F100D155D8 /* Build configuration list for PBXProject "RGBGradation" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,7 +112,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DDBFF10A2196D3F100D155D8 /* RGBGradiation */,
+				DDBFF10A2196D3F100D155D8 /* RGBGradation */,
 			);
 		};
 /* End PBXProject section */
@@ -284,12 +284,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3M66U64HQ4;
-				INFOPLIST_FILE = RGBGradiation/Info.plist;
+				INFOPLIST_FILE = RGBGradation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.RGBGradiation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.RGBGradation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -302,12 +302,12 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 3M66U64HQ4;
-				INFOPLIST_FILE = RGBGradiation/Info.plist;
+				INFOPLIST_FILE = RGBGradation/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.RGBGradiation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.gmb728.RGBGradation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DDBFF1062196D3F100D155D8 /* Build configuration list for PBXProject "RGBGradiation" */ = {
+		DDBFF1062196D3F100D155D8 /* Build configuration list for PBXProject "RGBGradation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDBFF11B2196D3F200D155D8 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DDBFF11D2196D3F200D155D8 /* Build configuration list for PBXNativeTarget "RGBGradiation" */ = {
+		DDBFF11D2196D3F200D155D8 /* Build configuration list for PBXNativeTarget "RGBGradation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				DDBFF11E2196D3F200D155D8 /* Debug */,
