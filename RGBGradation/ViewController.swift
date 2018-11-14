@@ -111,7 +111,7 @@ class ViewController: UIViewController {
     
     @IBAction func shadowAction(_ sender: UISlider) {
         bgImageView.layer.masksToBounds = false
-        self.bgImageView.layer.shadowOffset = CGSize(width:-2,height:1)
+        self.bgImageView.layer.shadowOffset = CGSize(width:-5,height:5)
         self.bgImageView.layer.shadowColor = UIColor.darkGray.cgColor
         self.bgImageView.layer.shadowOpacity = 0.8
         self.bgImageView.layer.shadowRadius = CGFloat(shadow.value)
